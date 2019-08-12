@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>s.c.ravi@accenture.com</contactEmail>
+    <label>Copado DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIC5jCCAc4CCQDzL6jWaWyqJzANBgkqhkiG9w0BAQsFADA0MQswCQYDVQQGEwJVUzEPMA0GA1UECgwGQ29wYWRvMRQwEgYDVQQDDAt3d3cuY29wYS5kbzAgFw0xOTA2MjAwNjU4MzlaGA8yMTI4MTIyNTA2NTgzOVowNDELMAkGA1UEBhMCVVMxDzANBgNVBAoMBkNvcGFkbzEUMBIGA1UEAwwLd3d3LmNvcGEuZG8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC8wLJ9yNrroq06Re7vyrWwM/u6Mfm4H/uQ96YF6gRMHJqOXRt/egbjp1Jk7z5lx+eYO6yWL+BFSGo+WombnkNmoru9IqiUcSql4YzGMFD9/9MEN7Jk/Ex9iZu60y+CCgXa+Y3qd5gY0gQ+jzVuL/pKs1/tFd859MvWbeYab1NGk4GT0CHq5pKvcaYUUpMFPmmv0YyIU/PO3s1IKmdkxwAZGJ+ra8fxVbqSzH6zgoUDnhMsr2ELVmv3vM00SktCwM7X31hPsHYlHFdjgXmyLeCa/4FSJAwJMx8IFxkgj2FoEun/jVh2v0C/pJUOm5PzFf7rXXZhhc/tl3uBCAotpXyjAgMBAAEwDQYJKoZIhvcNAQELBQADggEBAG6aFR+ZLyZCX4izK0kON+kU3n60jc+nzNJlM7AjjZoqLpAZZvwAvrDUkM+9NP9BjfgVSv2zxXJuquqloZzVZSG6LPlxmMaap+56x4V4U5svFTlRpK11efMcx9SJTyB0XjgMn9MmqptuqT+ZgjgTMsZYczWolATIfYso+/SBLb2QjgqdN5IOlIAstDsYWGV8UYfiLTfRmYv7kdfotvUFmfL+CzVPExPFPn14Kt+oULuhk/2kRRRzRgcPfui5G+YXM34oIUsEcz2WNMJJNFvjfLk3kV3HIM2HKzspEe6fiYelI/jzcTKHAge8XTMmPaLPnLQVJ6pwSHtC8zrQc9oIblM=</certificate>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
