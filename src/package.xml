@@ -7,13 +7,20 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>User__c.Opportunity__c</members>
+        <members>User__c.User_Address__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Test1__c</members>
         <members>Test__c</members>
+        <members>User__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Test1__c.All</members>
         <members>Test__c.All</members>
+        <members>User__c.All</members>
         <name>ListView</name>
     </types>
 </Package>
